@@ -1,3 +1,3 @@
 # Customer-Segmentation-Based-On-Online-Retail-s-Customer-Records
-Abstract 
+
 The project is based on segmentation of customers based on RFM (Recency, Frequency, Monetary) analysis and K means clustering. Exploratory data analysis performed is extensive with regard to individual features and the outcomes are the suggestions on the customers to focus on, the market of interest and many more...
